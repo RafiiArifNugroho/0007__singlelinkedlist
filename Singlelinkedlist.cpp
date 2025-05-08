@@ -178,4 +178,16 @@ public:
             cout << "\nNo Mahasiswa: " << current->noMhs << endl;
         }
         break;
+    case '5':
+    {
     }
+    break;
+    default:
+    {
+        cout << "Pilihan salah !." << endl;
+    }
+    break;
+    }
+} while (ch != '5') :
+}
+;
